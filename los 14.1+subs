@@ -35,6 +35,8 @@
   <project name="android_system_sepolicy" path="system/sepolicy" remote="arghyac35" revision="los-14.1+subs" />
   <project name="android_vendor_cm" path="vendor/cm" remote="arghyac35" revision="los-14.1+subs" />
   <project name="cm_platform_sdk" path="vendor/cmsdk"  remote="arghyac35" revision="los-14.1+subs" />
+  <project name="android_packages_apps_DUI" path="packages/apps/DUI"  remote="arghyac35" revision="los-14.1+subs" />
+  <project name="android_external_DUtils" path="external/DUtils"  remote="arghyac35" revision="los-14.1+subs" />
 
   <!-- track ThemeInterfacer -->
   <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" /> 
